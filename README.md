@@ -20,7 +20,7 @@ This project showcases data analytics and visualization using Python libraries s
      5. Matplotlib – Basic visualization
      6. Seaborn – Advanced and aesthetic data visualization
 
-📊 Features
+# Features
      1. Data cleaning and transformation
      2. Correlation heatmaps and pair plots
      3. Distribution and categorical analysis
