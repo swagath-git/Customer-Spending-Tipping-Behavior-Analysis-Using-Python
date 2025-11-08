@@ -1,6 +1,6 @@
 # Data Analytics Project Using Python (Seaborn)
-# Project Overview
-This project showcases data analytics and visualization using Python libraries such as 
+# Project Overview   
+# This project showcases data analytics and visualization using Python libraries such as :
     1. Pandas
     2. NumPy
     3. Matplotlib
