@@ -1,27 +1,34 @@
-# Data Analytics Project Using Python (Seaborn)
-# Project Overview   
-# This project showcases data analytics and visualization using Python libraries such as :
-    1. Pandas
-    2. NumPy
-    3. Matplotlib
-    4. Seaborn.
-       It focuses on performing Exploratory Data Analysis (EDA) to uncover insights, identify trends, and visualize relationships between variables in a dataset.
+# Data Analytics Project using Python (Seaborn)
 
-# Objectives
-     1. Clean and preprocess raw data
-     2. Perform statistical and exploratory analysis
-     3. Visualize data distributions and correlations
-     4. Derive actionable insights using Seaborn plots
-# Tools & Libraries
-     1. Python
-     2. Jupyter Notebook
-     3. Pandas – Data manipulation and cleaning
-     4. NumPy – Numerical operations
-     5. Matplotlib – Basic visualization
-     6. Seaborn – Advanced and aesthetic data visualization
+##  Project Overview
+This project focuses on exploratory data analysis using Python and Seaborn to uncover patterns, relationships, outliers and trends from the dataset. Multiple statistical visualizations were generated to support data-driven decision-making.
 
-# Features
-     1. Data cleaning and transformation
-     2. Correlation heatmaps and pair plots
-     3. Distribution and categorical analysis
-     4. Trend identification through visuals
+##  Objective
+To perform end-to-end EDA using Python and visually communicate insights through high-quality charts and graphs.
+
+##  Dataset
+The dataset used contains multiple numerical and categorical variables suitable for exploratory visual analysis.
+
+##  Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+
+##  Visualizations & Analysis Performed
+The notebook includes:
+- Distribution plots
+- Count plots
+- Bar charts
+- Box plots & Violin plots
+- Correlation heatmap
+- Pair plot for multi-variable relationships
+
+##  Key Insights
+- Visual patterns highlight trends across numerical features.
+- Correlation heatmap reveals strong and weak variable relationships.
+- Distribution plots helped detect skewness and outliers.
+- Segment-wise analysis shows differences across groups/categories.
+
+
