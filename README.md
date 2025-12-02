@@ -1,4 +1,4 @@
-# Data Analytics Project using Python (Seaborn)
+# Customer Spending & Tipping Behavior Analysis Using Python
 
 ##  Project Overview
 This project focuses on exploratory data analysis using Python and Seaborn to uncover patterns, relationships, outliers and trends from the dataset. Multiple statistical visualizations were generated to support data-driven decision-making.
