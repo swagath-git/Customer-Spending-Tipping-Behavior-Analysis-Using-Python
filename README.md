@@ -30,5 +30,6 @@ The notebook includes:
 - Correlation heatmap reveals strong and weak variable relationships.
 - Distribution plots helped detect skewness and outliers.
 - Segment-wise analysis shows differences across groups/categories.
+- 
 
 
