@@ -10,26 +10,25 @@ To perform end-to-end EDA using Python and visually communicate insights through
 The dataset used contains multiple numerical and categorical variables suitable for exploratory visual analysis.
 
 # Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
+1. Python
+2. Pandas
+3. NumPy
+4. Seaborn
+5. Matplotlib
 
 # Visualizations & Analysis Performed
 The notebook includes:
-- Distribution plots
-- Count plots
-- Bar charts
-- Box plots & Violin plots
-- Correlation heatmap
-- Pair plot for multi-variable relationships
+1. Distribution plots
+2. Count plots
+3. Bar charts
+4. Box plots & Violin plots
+5. Correlation heatmap
+6. Pair plot for multi-variable relationships
 
 # Key Insights
-- Visual patterns highlight trends across numerical features.
-- Correlation heatmap reveals strong and weak variable relationships.
-- Distribution plots helped detect skewness and outliers.
-- Segment-wise analysis shows differences across groups/categories.
-- 
+1. Visual patterns highlight trends across numerical features.
+2. Correlation heatmap reveals strong and weak variable relationships.
+3. Distribution plots helped detect skewness and outliers.
+4. Segment-wise analysis shows differences across groups/categories.
 
 
